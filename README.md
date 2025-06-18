@@ -1,2 +1,2 @@
-# Cloud Computing using Salesforce
-Cloud Computing using Salesforce, by BPB Publications
+# Cloud Computing using Salesforce - 2nd Edition
+Cloud Computing using Salesforce - 2nd Edition, by BPB Publications
